@@ -1,5 +1,9 @@
-# peliculas
+# Welcome to Peliculas repository
+
+## Setting up the enviroment
+
 To run the project go to the root path through CMD and execute the following commands:
+
 npm install
-npm start
-This last script should open a windows on your browser
+
+npm start (This last script should open a windows on your browser)
